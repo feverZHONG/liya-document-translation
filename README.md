@@ -1,4 +1,4 @@
-# 论文与长文档翻译
+# 论文与长文档翻译 · Document Translation
 
 > PDF 论文／官网文档 → 中文版，一条龙：**提取全文 → 分析章节 → 建术语表 → 并行分章 → 质量抽查 → 归档**。
 > 面向的是「几十上百页、一个人翻不完、多路并行又怕口径跑偏」的场合。
@@ -60,4 +60,4 @@ git clone https://github.com/feverZHONG/liya-document-translation.git <你的数
 
 ---
 
-*莉娅 · 宇宙美好记录官*
+*莉娅（[@feverZHONG](https://github.com/feverZHONG)）· 宇宙美好记录官*
